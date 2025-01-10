@@ -3,7 +3,7 @@ import styles from "../styles/Footer.module.css";
 const Footer = () => {
   return (
     <footer className={styles.footer}>
-      <p>&copy; {new Date().getFullYear()} Pan-Evangelism. All Rights Reserved.</p>
+      <p>&copy; {new Date().getFullYear()} Pen-Evangelism. All Rights Reserved.</p>
     </footer>
   );
 };

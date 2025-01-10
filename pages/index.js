@@ -21,7 +21,7 @@ export default function Home() {
         }}
       >
         <h1 style={{ fontSize: "2rem", marginBottom: "20px" }}>
-          Welcome to Pan-Evangelism
+          Welcome to Pen-Evangelism
         </h1>
         <p
           style={{
